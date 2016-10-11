@@ -5,3 +5,6 @@ Github and Android Studio tutorial: https://www.londonappdeveloper.com/how-to-us
 
 
 Currently working on:https://developer.android.com/training/basics/firstapp/starting-activity.html
+
+
+Running your app: https://developer.android.com/training/basics/firstapp/running-app.html
