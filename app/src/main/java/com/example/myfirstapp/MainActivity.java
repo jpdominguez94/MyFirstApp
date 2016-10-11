@@ -12,4 +12,4 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-//Testing GITHUB from other computer
+//Testing completed
